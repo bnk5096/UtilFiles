@@ -34,7 +34,7 @@ cp -r ~/ffmpeg /dev/shm
 echo "Blame dumping..."
 date
 
-for i in $(seq 0 50 8500); do
+for i in $(seq 0 50 4300); do
   echo "Starting task $i"
 
   srun --nodes=1 --ntasks=1 --cpus-per-task=1 --exclusive \
@@ -42,7 +42,7 @@ for i in $(seq 0 50 8500); do
       ".param set :repo ~/ffmpeg" \
       ".param set :offset $i" \
       ".read src/create_filepaths.sql" \
-      ".import ./ffmpeg_smaller.txt filepaths" \
+      ".import ../static_file_lists/ffmpeg_smaller.txt filepaths" \
       ".read src/blame-dump.sql" 
 
 done
