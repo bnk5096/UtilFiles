@@ -4,7 +4,7 @@
 #SBATCH --comment="Calculating git blames for ffmpeg"
 
 #SBATCH --account=vhp	
-#SBATCH --partition=debug		# change to tier3 when ready, usually debug
+#SBATCH --partition=tier3		# change to tier3 when ready, usually debug
 
 #SBATCH --output=%x_%j.out		# Output file
 #SBATCH --error=%x_%j.err		# Error file
@@ -14,8 +14,8 @@
 
 #SBATCH --time=0-1:00:00	# 0 days, 16 hour time limit
 
-#SBATCH --nodes=1			# How many nodes to run on
-#SBATCH --ntasks=2			# How many tasks per node
+#SBATCH --nodes=4			# How many nodes to run on
+#SBATCH --ntasks=4			# How many tasks per node
 #SBATCH --cpus-per-task=1		# Number of CPUs per task
 #SBATCH --mem-per-cpu=4g		# Memory per CPU
 
@@ -34,7 +34,7 @@ cp -r ~/ffmpeg /dev/shm
 echo "Blame dumping..."
 date
 
-for i in $(seq 0 25 100); do
+for i in $(seq 0 50 8500); do
   echo "Starting task $i"
 
   srun --nodes=1 --ntasks=1 --cpus-per-task=1 --exclusive \
