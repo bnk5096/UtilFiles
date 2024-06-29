@@ -42,7 +42,7 @@ for i in $(seq 0 50 4300); do
       ".param set :repo ~/ffmpeg" \
       ".param set :offset $i" \
       ".read src/create_filepaths.sql" \
-      ".import ../static_file_lists/ffmpeg_smaller.txt filepaths" \
+      ".import ./static_file_lists/ffmpeg_smaller.txt filepaths" \
       ".read src/blame-dump.sql" 
 
 done

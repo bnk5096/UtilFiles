@@ -1,0 +1,616 @@
+Script running!
+Sat Jun 29 06:03:52 PM EDT 2024
+skl-a-01.rc.rit.edu
+Spack env activated
+Sat Jun 29 06:04:01 PM EDT 2024
+Blame dumping...
+Sat Jun 29 06:07:09 PM EDT 2024
+Starting task 0
+
+DROP TABLE IF EXISTS filepaths;
+
+CREATE TABLE filepaths(
+        filepath VARCHAR(1000) PRIMARY KEY                                
+);
+Starting task 50
+
+DROP TABLE IF EXISTS filepaths;
+
+CREATE TABLE filepaths(
+        filepath VARCHAR(1000) PRIMARY KEY                                
+);
+Starting task 100
+
+DROP TABLE IF EXISTS filepaths;
+
+CREATE TABLE filepaths(
+        filepath VARCHAR(1000) PRIMARY KEY                                
+);
+Starting task 150
+
+DROP TABLE IF EXISTS filepaths;
+
+CREATE TABLE filepaths(
+        filepath VARCHAR(1000) PRIMARY KEY                                
+);
+Starting task 200
+
+DROP TABLE IF EXISTS filepaths;
+
+CREATE TABLE filepaths(
+        filepath VARCHAR(1000) PRIMARY KEY                                
+);
+Starting task 250
+
+DROP TABLE IF EXISTS filepaths;
+
+CREATE TABLE filepaths(
+        filepath VARCHAR(1000) PRIMARY KEY                                
+);
+Starting task 300
+
+DROP TABLE IF EXISTS filepaths;
+
+CREATE TABLE filepaths(
+        filepath VARCHAR(1000) PRIMARY KEY                                
+);
+Starting task 350
+
+DROP TABLE IF EXISTS filepaths;
+
+CREATE TABLE filepaths(
+        filepath VARCHAR(1000) PRIMARY KEY                                
+);
+Starting task 400
+
+DROP TABLE IF EXISTS filepaths;
+
+CREATE TABLE filepaths(
+        filepath VARCHAR(1000) PRIMARY KEY                                
+);
+Starting task 450
+
+DROP TABLE IF EXISTS filepaths;
+
+CREATE TABLE filepaths(
+        filepath VARCHAR(1000) PRIMARY KEY                                
+);
+Starting task 500
+
+DROP TABLE IF EXISTS filepaths;
+
+CREATE TABLE filepaths(
+        filepath VARCHAR(1000) PRIMARY KEY                                
+);
+Starting task 550
+
+DROP TABLE IF EXISTS filepaths;
+
+CREATE TABLE filepaths(
+        filepath VARCHAR(1000) PRIMARY KEY                                
+);
+Starting task 600
+
+DROP TABLE IF EXISTS filepaths;
+
+CREATE TABLE filepaths(
+        filepath VARCHAR(1000) PRIMARY KEY                                
+);
+Starting task 650
+
+DROP TABLE IF EXISTS filepaths;
+
+CREATE TABLE filepaths(
+        filepath VARCHAR(1000) PRIMARY KEY                                
+);
+Starting task 700
+
+DROP TABLE IF EXISTS filepaths;
+
+CREATE TABLE filepaths(
+        filepath VARCHAR(1000) PRIMARY KEY                                
+);
+Starting task 750
+
+DROP TABLE IF EXISTS filepaths;
+
+CREATE TABLE filepaths(
+        filepath VARCHAR(1000) PRIMARY KEY                                
+);
+Starting task 800
+
+DROP TABLE IF EXISTS filepaths;
+
+CREATE TABLE filepaths(
+        filepath VARCHAR(1000) PRIMARY KEY                                
+);
+Starting task 850
+
+DROP TABLE IF EXISTS filepaths;
+
+CREATE TABLE filepaths(
+        filepath VARCHAR(1000) PRIMARY KEY                                
+);
+Starting task 900
+
+DROP TABLE IF EXISTS filepaths;
+
+CREATE TABLE filepaths(
+        filepath VARCHAR(1000) PRIMARY KEY                                
+);
+Starting task 950
+
+DROP TABLE IF EXISTS filepaths;
+
+CREATE TABLE filepaths(
+        filepath VARCHAR(1000) PRIMARY KEY                                
+);
+Starting task 1000
+
+DROP TABLE IF EXISTS filepaths;
+
+CREATE TABLE filepaths(
+        filepath VARCHAR(1000) PRIMARY KEY                                
+);
+Starting task 1050
+
+DROP TABLE IF EXISTS filepaths;
+
+CREATE TABLE filepaths(
+        filepath VARCHAR(1000) PRIMARY KEY                                
+);
+Starting task 1100
+
+DROP TABLE IF EXISTS filepaths;
+
+CREATE TABLE filepaths(
+        filepath VARCHAR(1000) PRIMARY KEY                                
+);
+Starting task 1150
+
+DROP TABLE IF EXISTS filepaths;
+
+CREATE TABLE filepaths(
+        filepath VARCHAR(1000) PRIMARY KEY                                
+);
+Starting task 1200
+
+DROP TABLE IF EXISTS filepaths;
+
+CREATE TABLE filepaths(
+        filepath VARCHAR(1000) PRIMARY KEY                                
+);
+Starting task 1250
+
+DROP TABLE IF EXISTS filepaths;
+
+CREATE TABLE filepaths(
+        filepath VARCHAR(1000) PRIMARY KEY                                
+);
+Starting task 1300
+
+DROP TABLE IF EXISTS filepaths;
+
+CREATE TABLE filepaths(
+        filepath VARCHAR(1000) PRIMARY KEY                                
+);
+Starting task 1350
+
+DROP TABLE IF EXISTS filepaths;
+
+CREATE TABLE filepaths(
+        filepath VARCHAR(1000) PRIMARY KEY                                
+);
+Starting task 1400
+
+DROP TABLE IF EXISTS filepaths;
+
+CREATE TABLE filepaths(
+        filepath VARCHAR(1000) PRIMARY KEY                                
+);
+Starting task 1450
+
+DROP TABLE IF EXISTS filepaths;
+
+CREATE TABLE filepaths(
+        filepath VARCHAR(1000) PRIMARY KEY                                
+);
+Starting task 1500
+
+DROP TABLE IF EXISTS filepaths;
+
+CREATE TABLE filepaths(
+        filepath VARCHAR(1000) PRIMARY KEY                                
+);
+Starting task 1550
+
+DROP TABLE IF EXISTS filepaths;
+
+CREATE TABLE filepaths(
+        filepath VARCHAR(1000) PRIMARY KEY                                
+);
+Starting task 1600
+
+DROP TABLE IF EXISTS filepaths;
+
+CREATE TABLE filepaths(
+        filepath VARCHAR(1000) PRIMARY KEY                                
+);
+Starting task 1650
+
+DROP TABLE IF EXISTS filepaths;
+
+CREATE TABLE filepaths(
+        filepath VARCHAR(1000) PRIMARY KEY                                
+);
+Starting task 1700
+
+DROP TABLE IF EXISTS filepaths;
+
+CREATE TABLE filepaths(
+        filepath VARCHAR(1000) PRIMARY KEY                                
+);
+Starting task 1750
+
+DROP TABLE IF EXISTS filepaths;
+
+CREATE TABLE filepaths(
+        filepath VARCHAR(1000) PRIMARY KEY                                
+);
+Starting task 1800
+
+DROP TABLE IF EXISTS filepaths;
+
+CREATE TABLE filepaths(
+        filepath VARCHAR(1000) PRIMARY KEY                                
+);
+Starting task 1850
+
+DROP TABLE IF EXISTS filepaths;
+
+CREATE TABLE filepaths(
+        filepath VARCHAR(1000) PRIMARY KEY                                
+);
+Starting task 1900
+
+DROP TABLE IF EXISTS filepaths;
+
+CREATE TABLE filepaths(
+        filepath VARCHAR(1000) PRIMARY KEY                                
+);
+Starting task 1950
+
+DROP TABLE IF EXISTS filepaths;
+
+CREATE TABLE filepaths(
+        filepath VARCHAR(1000) PRIMARY KEY                                
+);
+Starting task 2000
+
+DROP TABLE IF EXISTS filepaths;
+
+CREATE TABLE filepaths(
+        filepath VARCHAR(1000) PRIMARY KEY                                
+);
+Starting task 2050
+
+DROP TABLE IF EXISTS filepaths;
+
+CREATE TABLE filepaths(
+        filepath VARCHAR(1000) PRIMARY KEY                                
+);
+Starting task 2100
+
+DROP TABLE IF EXISTS filepaths;
+
+CREATE TABLE filepaths(
+        filepath VARCHAR(1000) PRIMARY KEY                                
+);
+Starting task 2150
+
+DROP TABLE IF EXISTS filepaths;
+
+CREATE TABLE filepaths(
+        filepath VARCHAR(1000) PRIMARY KEY                                
+);
+Starting task 2200
+
+DROP TABLE IF EXISTS filepaths;
+
+CREATE TABLE filepaths(
+        filepath VARCHAR(1000) PRIMARY KEY                                
+);
+Starting task 2250
+
+DROP TABLE IF EXISTS filepaths;
+
+CREATE TABLE filepaths(
+        filepath VARCHAR(1000) PRIMARY KEY                                
+);
+Starting task 2300
+
+DROP TABLE IF EXISTS filepaths;
+
+CREATE TABLE filepaths(
+        filepath VARCHAR(1000) PRIMARY KEY                                
+);
+Starting task 2350
+
+DROP TABLE IF EXISTS filepaths;
+
+CREATE TABLE filepaths(
+        filepath VARCHAR(1000) PRIMARY KEY                                
+);
+Starting task 2400
+
+DROP TABLE IF EXISTS filepaths;
+
+CREATE TABLE filepaths(
+        filepath VARCHAR(1000) PRIMARY KEY                                
+);
+Starting task 2450
+
+DROP TABLE IF EXISTS filepaths;
+
+CREATE TABLE filepaths(
+        filepath VARCHAR(1000) PRIMARY KEY                                
+);
+Starting task 2500
+
+DROP TABLE IF EXISTS filepaths;
+
+CREATE TABLE filepaths(
+        filepath VARCHAR(1000) PRIMARY KEY                                
+);
+Starting task 2550
+
+DROP TABLE IF EXISTS filepaths;
+
+CREATE TABLE filepaths(
+        filepath VARCHAR(1000) PRIMARY KEY                                
+);
+Starting task 2600
+
+DROP TABLE IF EXISTS filepaths;
+
+CREATE TABLE filepaths(
+        filepath VARCHAR(1000) PRIMARY KEY                                
+);
+Starting task 2650
+
+DROP TABLE IF EXISTS filepaths;
+
+CREATE TABLE filepaths(
+        filepath VARCHAR(1000) PRIMARY KEY                                
+);
+Starting task 2700
+
+DROP TABLE IF EXISTS filepaths;
+
+CREATE TABLE filepaths(
+        filepath VARCHAR(1000) PRIMARY KEY                                
+);
+Starting task 2750
+
+DROP TABLE IF EXISTS filepaths;
+
+CREATE TABLE filepaths(
+        filepath VARCHAR(1000) PRIMARY KEY                                
+);
+Starting task 2800
+
+DROP TABLE IF EXISTS filepaths;
+
+CREATE TABLE filepaths(
+        filepath VARCHAR(1000) PRIMARY KEY                                
+);
+Starting task 2850
+
+DROP TABLE IF EXISTS filepaths;
+
+CREATE TABLE filepaths(
+        filepath VARCHAR(1000) PRIMARY KEY                                
+);
+Starting task 2900
+
+DROP TABLE IF EXISTS filepaths;
+
+CREATE TABLE filepaths(
+        filepath VARCHAR(1000) PRIMARY KEY                                
+);
+Starting task 2950
+
+DROP TABLE IF EXISTS filepaths;
+
+CREATE TABLE filepaths(
+        filepath VARCHAR(1000) PRIMARY KEY                                
+);
+Starting task 3000
+
+DROP TABLE IF EXISTS filepaths;
+
+CREATE TABLE filepaths(
+        filepath VARCHAR(1000) PRIMARY KEY                                
+);
+Starting task 3050
+
+DROP TABLE IF EXISTS filepaths;
+
+CREATE TABLE filepaths(
+        filepath VARCHAR(1000) PRIMARY KEY                                
+);
+Starting task 3100
+
+DROP TABLE IF EXISTS filepaths;
+
+CREATE TABLE filepaths(
+        filepath VARCHAR(1000) PRIMARY KEY                                
+);
+Starting task 3150
+
+DROP TABLE IF EXISTS filepaths;
+
+CREATE TABLE filepaths(
+        filepath VARCHAR(1000) PRIMARY KEY                                
+);
+Starting task 3200
+
+DROP TABLE IF EXISTS filepaths;
+
+CREATE TABLE filepaths(
+        filepath VARCHAR(1000) PRIMARY KEY                                
+);
+Starting task 3250
+
+DROP TABLE IF EXISTS filepaths;
+
+CREATE TABLE filepaths(
+        filepath VARCHAR(1000) PRIMARY KEY                                
+);
+Starting task 3300
+
+DROP TABLE IF EXISTS filepaths;
+
+CREATE TABLE filepaths(
+        filepath VARCHAR(1000) PRIMARY KEY                                
+);
+Starting task 3350
+
+DROP TABLE IF EXISTS filepaths;
+
+CREATE TABLE filepaths(
+        filepath VARCHAR(1000) PRIMARY KEY                                
+);
+Starting task 3400
+
+DROP TABLE IF EXISTS filepaths;
+
+CREATE TABLE filepaths(
+        filepath VARCHAR(1000) PRIMARY KEY                                
+);
+Starting task 3450
+
+DROP TABLE IF EXISTS filepaths;
+
+CREATE TABLE filepaths(
+        filepath VARCHAR(1000) PRIMARY KEY                                
+);
+Starting task 3500
+
+DROP TABLE IF EXISTS filepaths;
+
+CREATE TABLE filepaths(
+        filepath VARCHAR(1000) PRIMARY KEY                                
+);
+Starting task 3550
+
+DROP TABLE IF EXISTS filepaths;
+
+CREATE TABLE filepaths(
+        filepath VARCHAR(1000) PRIMARY KEY                                
+);
+Starting task 3600
+
+DROP TABLE IF EXISTS filepaths;
+
+CREATE TABLE filepaths(
+        filepath VARCHAR(1000) PRIMARY KEY                                
+);
+Starting task 3650
+
+DROP TABLE IF EXISTS filepaths;
+
+CREATE TABLE filepaths(
+        filepath VARCHAR(1000) PRIMARY KEY                                
+);
+Starting task 3700
+
+DROP TABLE IF EXISTS filepaths;
+
+CREATE TABLE filepaths(
+        filepath VARCHAR(1000) PRIMARY KEY                                
+);
+Starting task 3750
+
+DROP TABLE IF EXISTS filepaths;
+
+CREATE TABLE filepaths(
+        filepath VARCHAR(1000) PRIMARY KEY                                
+);
+Starting task 3800
+
+DROP TABLE IF EXISTS filepaths;
+
+CREATE TABLE filepaths(
+        filepath VARCHAR(1000) PRIMARY KEY                                
+);
+Starting task 3850
+
+DROP TABLE IF EXISTS filepaths;
+
+CREATE TABLE filepaths(
+        filepath VARCHAR(1000) PRIMARY KEY                                
+);
+Starting task 3900
+
+DROP TABLE IF EXISTS filepaths;
+
+CREATE TABLE filepaths(
+        filepath VARCHAR(1000) PRIMARY KEY                                
+);
+Starting task 3950
+
+DROP TABLE IF EXISTS filepaths;
+
+CREATE TABLE filepaths(
+        filepath VARCHAR(1000) PRIMARY KEY                                
+);
+Starting task 4000
+
+DROP TABLE IF EXISTS filepaths;
+
+CREATE TABLE filepaths(
+        filepath VARCHAR(1000) PRIMARY KEY                                
+);
+Starting task 4050
+
+DROP TABLE IF EXISTS filepaths;
+
+CREATE TABLE filepaths(
+        filepath VARCHAR(1000) PRIMARY KEY                                
+);
+Starting task 4100
+
+DROP TABLE IF EXISTS filepaths;
+
+CREATE TABLE filepaths(
+        filepath VARCHAR(1000) PRIMARY KEY                                
+);
+Starting task 4150
+
+DROP TABLE IF EXISTS filepaths;
+
+CREATE TABLE filepaths(
+        filepath VARCHAR(1000) PRIMARY KEY                                
+);
+Starting task 4200
+
+DROP TABLE IF EXISTS filepaths;
+
+CREATE TABLE filepaths(
+        filepath VARCHAR(1000) PRIMARY KEY                                
+);
+Starting task 4250
+
+DROP TABLE IF EXISTS filepaths;
+
+CREATE TABLE filepaths(
+        filepath VARCHAR(1000) PRIMARY KEY                                
+);
+Starting task 4300
+
+DROP TABLE IF EXISTS filepaths;
+
+CREATE TABLE filepaths(
+        filepath VARCHAR(1000) PRIMARY KEY                                
+);
